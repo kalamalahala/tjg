@@ -4,4 +4,7 @@
 
 	class Contact {
 
+		public function __construct() {
+			return;
+		}
 	}
